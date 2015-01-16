@@ -132,6 +132,7 @@ body {
 		}
 			#tweet-controls div {
 				display: inline-block;
+				visibility: hidden;
 			}
 			#char-count {
 				font-size: 14px;
@@ -188,7 +189,8 @@ body {
 		display: inline-block;
 		vertical-align: text-top;
 		background-repeat: no-repeat;
-		background-image: url(https://abs.twimg.com/a/1379560497/t1/img/twitter_web_sprite_icons.png);
+		background-image: 
+			url(https://abs.twimg.com/a/1379560497/t1/img/twitter_web_sprite_icons.png);
 	}
 
 	.action-reply {
