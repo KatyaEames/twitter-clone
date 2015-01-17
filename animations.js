@@ -1,6 +1,6 @@
-$('.tweet-compose').on('focus', function() {
-	$('this').width(200)
-})
-$('.tweet-comtrols').on('click', function() {
-	$('this').css(visibilty: )
-})
+$('.tweet-compose').on('click', function() {
+	$('this').css('height', '4.5em');
+});
+$('.tweet-controls').on('click', function() {
+	$('this').css(visibilty: );
+});
