@@ -128,7 +128,8 @@ body {
 		box-sizing: border-box;
 	}
 		#tweet-controls {
-			text-align: right; 
+			text-align: right;
+			visibility: hidden;
 		}
 			#tweet-controls div {
 				display: inline-block;
